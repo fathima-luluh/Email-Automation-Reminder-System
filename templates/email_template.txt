@@ -1,0 +1,14 @@
+Hello {name},
+
+This is a reminder for your upcoming {event}.
+
+Date:
+{date}
+
+Time:
+{time}
+
+Please be prepared.
+
+Regards,
+Automation System
